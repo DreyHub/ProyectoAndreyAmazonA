@@ -1,0 +1,90 @@
+@font-face {
+    font-family: "AmazonEmber_Rg";
+    src: url("./font/Ember/AmazonEmber_Rg.ttf");
+  }
+  @font-face {
+    font-family: "AmazonEmber_Bd";
+    src: url("./font/Ember/AmazonEmber_Bd.ttf");
+  }
+  @font-face {
+    font-family: "AmazonEmber_Lt";
+    src: url("./font/Ember/AmazonEmber_Lt.ttf");
+  }
+  @font-face {
+    font-family: "AmazonEmber_Md";
+    src: url("./font/Ember/Amazon-Ember-Medium.ttf");
+  }
+  @font-face {
+    font-family: "AmazonEmber_Th";
+    src: url("./font/Ember/AmazonEmber_Th.ttf");
+  }
+  @font-face {
+    font-family: "AmazonEmber_He";
+    src: url("./font/Ember/AmazonEmber_He.ttf");
+  }
+  p {
+    font-family: "AmazonEmber_Rg", Arial, sans-serif;
+    font-weight: lighter;
+  }
+  a {
+    text-decoration: none;
+    font-family: "AmazonEmber_Rg", Arial, sans-serif;
+    font-weight: normal;
+    font-size: 14px;
+  }
+  .strong {
+    font-family: "AmazonEmber_Bd", Arial, sans-serif;
+    font-weight: bold;
+  }
+  .ligth {
+    font-family: "AmazonEmber_Lt", Arial, sans-serif;
+    font-weight: lighter;
+  }
+  .navbar {
+    background-color: #131921;
+    padding: 0px;
+    margin-right: 0;
+  }
+  .navbar a {
+    color: white;
+  }
+  nav a:hover {
+    color: white;
+  }
+  .search_all {
+    background-color: #f3f3f3;
+    color: #555 !important;
+    border-radius: 5px 0 0 5px;
+  }
+  .search_icon {
+    background-color: #febd69;
+  }
+  .rowdinamic {
+    position: absolute;
+    top: 38%;
+    align-items: center;
+    margin-left: 25px;
+  }
+  .rowdinamic2 {
+    position: absolute;
+    top: 80%;
+    align-items: center;
+    margin-left: 25px;
+  }
+  .card {
+    padding: 20px;
+  }
+  .card h5 {
+    color: #0F1111;
+    font-family: "AmazonEmber_Bd", Arial, sans-serif;
+    font-size: 21px;
+  }
+  .card-img-top {
+    width: 245px;
+    height: 245px;
+    margin-left: auto;
+    margin-right: auto;
+  }
+  #main{
+    margin-top: 0;
+  }
